@@ -1,5 +1,5 @@
 # pix2pix-pytorch
-Pytorch implementation of pix2pix [link](https://arxiv.org/pdf/1611.07004.pdf).
+Pytorch implementation of [pix2pix](https://arxiv.org/pdf/1611.07004.pdf).
 
 ## Requirements
 |Package|Version|
