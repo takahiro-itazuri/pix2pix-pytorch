@@ -13,5 +13,5 @@ Run the following code for setting up datasets.
 bash download.sh
 ```
 
-Or you can download datasets from [link](https://people.eecs.berkeley.edu/~tinghuiz/projects/pix2pix/datasets/) by yourself.
+Or you can download datasets from [link](https://github.com/mrzhu-cool/pix2pix-pytorch/raw/master/dataset/facades.zip) by yourself.
 
